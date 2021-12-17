@@ -17,3 +17,6 @@ To view the exploit creating a file on the victim server, execute:
 ```shell
 docker compose exec victim ls -lah /tmp
 ```
+
+# Blog Post
+https://obscuritylabs.com/blog/log4shell-the-newest-vulnerability/
