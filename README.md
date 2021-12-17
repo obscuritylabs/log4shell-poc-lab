@@ -15,5 +15,5 @@ docker compose up
 To view the exploit creating a file on the victim server, execute:
 
 ```shell
-docker compose exec attacker-client ls -lah /tmp
+docker compose exec victim ls -lah /tmp
 ```
