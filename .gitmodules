@@ -1,0 +1,3 @@
+[submodule "victim"]
+	path = victim
+	url = https://github.com/christophetd/log4shell-vulnerable-app.git
